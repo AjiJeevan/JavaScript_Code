@@ -1,7 +1,7 @@
 console.log("Even numbers from 0 to 11")
-for(i=0; i<=11 ; i++){
-    if( i%2 == 0)
+for(num = 0; num <= 11 ; num++){
+    if( num % 2 == 0)
     {
-        console.log(i)
+        console.log(num)
     }
 }
